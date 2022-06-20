@@ -109,7 +109,8 @@ while True:
 
 				body="You have been selected as an emergency number by Swarup. Swarup is currently feeling drowsiness. Please contact him asap so that he can travel safely."
 
-				# client.api.account.messages.create(to="+91 99252 07827'",from_="+19403267422",body=body)
+				# uncomment the below line once the verification of twilio is done
+				# client.api.account.messages.create(to="+91 82870 47870",from_="+19403267422",body=body)
 
 				# ----------------------------- Working on frame to display a visual alert to the uer. --------------------------------
 
