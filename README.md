@@ -10,7 +10,7 @@ This project is a drowsiness detection system. It uses a camera to monitor the E
 
 <p align=center>
   <samp>"<a href="https://www.thehindu.com/news/national/kerala/sleep-deprived-drivers-responsible-for-40-of-road-accidents-say-transport-officials/
-">40% of the on road accidents</a> occur due to <em>Sleep depravity</em>"</samp>
+">40% of the on road accidents</a> occur due to <em>Sleep deprivation</em>"</samp>
 </p>
 
 <p>
